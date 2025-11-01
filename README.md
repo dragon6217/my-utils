@@ -40,8 +40,8 @@
 XP-Pen 타블렛 설정도 동일한 원리로 F-Key를 할당할 수 있습니다.
 
 1.  타블렛 설정 창에서 키를 할당할 버튼을 클릭합니다. (`xppen-fkey-setup-01.png` 참고)
-2.  "키보드에서 정의" 창의 입력 칸을 클릭합니다. (`xppen-fkey-setup-03.png` 참고)
-3.  `hotkey_input_simulator.ahk` 스크립트의 키를 `F18` 등으로 변경하고 실행하면, 입력 칸이 가상 입력을 감지하여 키가 할당됩니다. (`xppen-fkey-setup-02.png` 참고)
+2.  "키보드에서 정의" 창의 입력 칸을 클릭합니다. (`xppen-fkey-setup-02.png` 참고)
+3.  `hotkey_input_simulator.ahk` 스크립트의 키를 `F18` 등으로 변경하고 실행하면, 입력 칸이 가상 입력을 감지하여 키가 할당됩니다. (`xppen-fkey-setup-03.png` 참고)
 
 | XP-Pen 설정 (1) | XP-Pen 설정 (2) | XP-Pen 설정 (3) |
 | :---: | :---: | :---: |
